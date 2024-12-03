@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on spitz.is - gather!</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on spitz.is - gather!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 21:18:57 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Tue, 03 Dec 2024 21:18:57 +0100</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-to-spitzis-world&#34;&gt;Hello to spitz.is world!&lt;/h2&gt;
+&lt;p&gt;He gave birth!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;hello-to-spitzis-world&#34;&gt;Hello to spitz.is world!&lt;/h2&gt;
+&lt;p&gt;He gave birth!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
