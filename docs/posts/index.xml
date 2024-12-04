@@ -6,7 +6,20 @@
     <description>Recent content in Posts on spitz.is - gather!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 21:18:57 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Dec 2024 08:24:36 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Pages</title>
+      <link>/posts/github-pages/</link>
+      <pubDate>Wed, 04 Dec 2024 08:24:36 +0100</pubDate>
+      
+      <guid>/posts/github-pages/</guid>
+      <description>&lt;h2 id=&#34;spitzis-now-fully-enabled-custom-domain-on-github-pages&#34;&gt;Spitz.is now fully enabled custom domain on github pages&lt;/h2&gt;
+&lt;p&gt;They got address!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;spitzis-now-fully-enabled-custom-domain-on-github-pages&#34;&gt;Spitz.is now fully enabled custom domain on github pages&lt;/h2&gt;
+&lt;p&gt;They got address!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Hello World!</title>
       <link>/posts/hello-world/</link>

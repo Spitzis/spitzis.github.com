@@ -2,4 +2,4 @@
 
 See: https://gohugo.io/getting-started/quick-start/
 
-Published page see ./public
+Published page see ./docs
